@@ -8,7 +8,7 @@
 
 **Gurugram, Haryana, India · Open to hybrid roles**
 
-[LinkedIn](https://www.linkedin.com/in/ruchika-rastogi-digitalmarketing/) · [Email](ruchikadigiatl888@gmail.com) · [Resume](dbf05b73d033e739d0138e1b9034a2864863a54f)
+[LinkedIn](https://www.linkedin.com/in/ruchika-rastogi-digitalmarketing/) · [Email](ruchikadigiatl888@gmail.com) · [Resume](https://docs.google.com/document/d/1IDzhrlyBM3u-S_nneSXNCn0E9mUwfKOT/edit)
 
 </div>
 
