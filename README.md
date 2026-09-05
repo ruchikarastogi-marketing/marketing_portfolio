@@ -75,7 +75,7 @@ Results-driven growth professional with 3+ years of experience bridging performa
 
 ---
 
-## Active AI Build Lab & Upcoming Releases
+## Active AI Build projects & Upcoming Releases
 
 Currently engineering next-generation, AI-native marketing products and automated growth tools. **Public codebase and documentation launching in Q2 2026.**
 
@@ -84,3 +84,16 @@ Currently engineering next-generation, AI-native marketing products and automate
 ├── 01. AI Sales & Lead Qualification Agent ......... [Phase: Prototyping / Launching Next Month]
 ├── 02. Marketing Operations Automation Toolkit ...... [Phase: System Design / Launching Next Month]
 └── 03. AI Growth & Visibility Auditor .............. [Phase: Architecture Planning]
+
+## Independent projects  `[In Development]`
+
+* **Teardowns & Audits:** Deep dives into high-growth SaaS/D2C funnels, CRO bottlenecks, and search positioning.
+* **Frameworks & Playbooks:** Reusable systems for growth diagnosis, unit economics modeling, and channel experiments.
+* **Templates & Workflows:** Production-ready prompt libraries, GA4 dashboard builds, and automated SOPs.
+
+## Let's Connect
+
+I partner with founders, marketing leaders, and product teams on **growth strategy, search/AI visibility, and autonomous marketing systems**. 
+If you're solving a complex acquisition constraint or exploring where AI can genuinely automate your marketing ops "let's talk".
+
+[LinkedIn](https://www.linkedin.com/in/ruchika-rastogi-digitalmarketing/) · [Email Direct](mailto:ruchikadigiatl888@gmail.com) · [View Resume](https://docs.google.com/document/d/1IDzhrlyBM3u-S_nneSXNCn0E9mUwfKOT/edit)
