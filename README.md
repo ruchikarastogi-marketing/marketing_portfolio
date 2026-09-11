@@ -71,7 +71,7 @@ Results-driven growth professional with 3+ years of experience bridging performa
 * **Outcome:** Built 10+ reusable audit frameworks and standardized AI-assisted workflows across all accounts.
 </details>
 
-👉 **[Read Full Case Study Documentation](./case-studies/consulting/README.md)** *(Detailed breakdown)*
+👉 **[Read Full Case Study Documentation](https://github.com/ruchikarastogi-marketing/marketing_portfolio/blob/c449f8d8235773528c4de2611dcd9d00a3fb0192/Growth%20marketing%20consulting%20case%20study%20.md)** *(Detailed breakdown)*
 
 ---
 
